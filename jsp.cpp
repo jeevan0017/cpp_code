@@ -10,4 +10,7 @@ int main()
 	cout<<"Hey"<<friendname<<"how are you"<<endl;
         
 	cout<<"you're not just a friend,you're family"<<endl;
+
+	cout<<"wishing you joy,success,and a day full of smiles"<<endl;
+	return 0;
 }
