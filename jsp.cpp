@@ -12,5 +12,9 @@ int main()
 	cout<<"you're not just a friend,you're family"<<endl;
 
 	cout<<"wishing you joy,success,and a day full of smiles"<<endl;
+
+	string brothername;
+	cout<<"Enter the brother name:";
+	cin>>brothername;
 	return 0;
 }
