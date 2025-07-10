@@ -20,5 +20,7 @@ int main()
 	cout<<"Hi"<<brothername<<"how are you"<<endl;
 
 	cout<<"you're not just a brother,you're my power"<<endl;
+
+	cout<<"you're my strength and my power,i wish you to be happy and joy always"<<endl;
 	return 0;
 }
