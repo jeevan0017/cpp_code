@@ -16,5 +16,9 @@ int main()
 	string brothername;
 	cout<<"Enter the brother name:";
 	cin>>brothername;
+
+	cout<<"Hi"<<brothername<<"how are you"<<endl;
+
+	cout<<"you're not just a brother,you're my power"<<endl;
 	return 0;
 }
