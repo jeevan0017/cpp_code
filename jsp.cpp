@@ -22,5 +22,14 @@ int main()
 	cout<<"you're not just a brother,you're my power"<<endl;
 
 	cout<<"you're my strength and my power,i wish you to be happy and joy always"<<endl;
+
+	int num1,num2;
+	cout<<"Enter the first number:";
+	cin>>num1;
+
+	cout<<"Enter the second number:"
+	cin>>num2;
+	sum=num1+num2;
+	cout<<"sum="<<sum<<endl;
 	return 0;
 }
